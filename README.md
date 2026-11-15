@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ariet 👋
 
-<!--
-**ArietDev10/ArietDev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer
 
-Here are some ideas to get you started:
+I'm learning backend development and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+- Python
+- Django
+- Django REST Framework
+- SQL
+- Git & GitHub
+
+### Currently Learning
+- Backend Development
+- REST API
+- Databases
+
+### My Goal
+To become a professional Backend Developer.
