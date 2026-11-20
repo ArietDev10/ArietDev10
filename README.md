@@ -1,21 +1,50 @@
 
+<div align="center">
+
 # Hi, I'm Ariet 👋
 
-### Python Backend Developer
+### 🐍 Python Backend Developer
 
-I'm learning backend development and building projects.
+Learning Backend Development and building projects with Python and Django.
 
-### My Skills
-- Python
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 I'm learning Python Backend Development.
+- 🐍 Working with Python and Django.
+- 💻 Interested in Backend Development.
+- 🎯 My goal is to become a professional Backend Developer.
+
+## 🛠️ Tech Stack
+
+- **Language:** Python
+- **Framework:** Django
+- **Database:** SQL
+- **Tools:** Git, GitHub
+
+## 📚 Currently Learning
+
 - Django
 - Django REST Framework
-- SQL
-- Git & GitHub
-
-### Currently Learning
-- Backend Development
 - REST API
 - Databases
+- Backend Development
 
-### My Goal
-To become a professional Backend Developer.
+## 🚀 My Projects
+
+- Coming soon...
+
+## 📫 Contact
+
+- GitHub: [Ariet](https://github.com/Ariet)
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+</div>
